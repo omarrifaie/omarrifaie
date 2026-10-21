@@ -14,8 +14,8 @@
 ## About Me
 
 ```yaml
-role:        Computer Science @ University of South Florida
-experience:  DBA / Data Engineering Co-op @ CAE USA
+role:        Computer Science @ University of South Florida (Dec 2027)
+experience:  DBA / Data Engineering Co-op @ CAE USA (since June 2026)
 building:    dbt pipelines that run on DuckDB, Snowflake, and Databricks
 leading:     Logistics Lead @ Google Developer Group USF
 learning:    Apache Spark, C++ data structures, LLM agents
@@ -106,3 +106,44 @@ location:    Tampa, FL
     <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vercel&theme=dark" alt="Tools" /></td>
   </tr>
 </table>
+
+## Certifications
+
+<table>
+  <tr>
+    <td><b>Data / Cloud</b></td>
+    <td>
+      <b>Snowflake</b> · Data Engineering Professional Certificate <sub>Jul 2026</sub><br/>
+      <b>Astronomer</b> · Data Engineering Foundations Professional Certificate <sub>Oct 2026</sub><br/>
+      <b>Microsoft</b> · Azure Essentials Professional Certificate <sub>Jul 2026</sub><br/>
+      <b>Microsoft</b> · Azure AI Essentials Professional Certificate <sub>Jun 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Python / ML</b></td>
+    <td>
+      <b>Anaconda</b> · Python for Data Science Professional Certificate <sub>Oct 2026</sub><br/>
+      <b>Anaconda</b> · Machine Learning with Python Professional Certificate <sub>Aug 2026</sub><br/>
+      <b>Microsoft</b> · Career Essentials in Data Analysis <sub>Jul 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps / Tools</b></td>
+    <td>
+      <b>PagerDuty</b> · DevOps Professional Certificate <sub>Aug 2026</sub><br/>
+      <b>Docker</b> · Docker Foundations Professional Certificate <sub>Jul 2026</sub><br/>
+      <b>GitHub</b> · Career Essentials in GitHub Professional Certificate <sub>Jun 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Agile / Business</b></td>
+    <td>
+      <b>Atlassian</b> · Agile Project Management Professional Certificate <sub>Jun 2026</sub><br/>
+      <b>Atlassian</b> · IT Service Management (ITSM) Professional Certificate <sub>Jul 2026</sub><br/>
+      <b>Microsoft</b> · Career Essentials in Business Analysis <sub>Jul 2026</sub><br/>
+      <b>Microsoft</b> · Human Skills in the Age of AI <sub>Jul 2026</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Credentials verifiable on <a href="https://www.linkedin.com/in/omar-rifaie-/details/certifications/">LinkedIn</a>.</sub>
