@@ -24,7 +24,6 @@ location:    Tampa, FL
 ```
 
 * **Latest:** Won **MLH Best Use of Tiger Data** at SwampHacks XII with Haven, a post-mastectomy rehab platform built on TimescaleDB
-* **At CAE:** Administering enterprise SQL databases, rebuilding 30+ DOMO DataFlows as a medallion architecture in Snowflake, and maintaining 20+ dbt models for reporting teams
 
 ## Featured Builds
 
