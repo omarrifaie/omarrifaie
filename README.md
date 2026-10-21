@@ -14,8 +14,8 @@
 ## About Me
 
 ```yaml
-role:        Computer Science @ University of South Florida (Dec 2027)
-experience:  DBA / Data Engineering Co-op @ CAE USA (since June 2026)
+role:        Computer Science @ University of South Florida
+experience:  DBA / Data Engineering Co-op @ CAE USA
 building:    dbt pipelines that run on DuckDB, Snowflake, and Databricks
 leading:     Logistics Lead @ Google Developer Group USF
 learning:    Apache Spark, C++ data structures, LLM agents
