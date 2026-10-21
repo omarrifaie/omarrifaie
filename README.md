@@ -14,8 +14,8 @@
 ## About Me
 
 ```yaml
-role:        Computer Science @ University of South Florida (Dec 2027)
-experience:  DBA / Data Engineering Co-op @ CAE USA (since June 2026)
+role:        Computer Science @ University of South Florida
+experience:  DBA / Data Engineering Co-op @ CAE USA
 building:    dbt pipelines that run on DuckDB, Snowflake, and Databricks
 leading:     Logistics Lead @ Google Developer Group USF
 learning:    Apache Spark, C++ data structures, LLM agents
@@ -25,7 +25,6 @@ location:    Tampa, FL
 
 * **Latest:** Won **MLH Best Use of Tiger Data** at SwampHacks XII with Haven, a post-mastectomy rehab platform built on TimescaleDB
 * **At CAE:** Administering enterprise SQL databases, rebuilding 30+ DOMO DataFlows as a medallion architecture in Snowflake, and maintaining 20+ dbt models for reporting teams
-* **Hackathons:** Haven at SwampHacks XII and GridLock at ShellHacks 2026
 
 ## Featured Builds
 
