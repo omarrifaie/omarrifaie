@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=0:0b1d3a,100:2563eb&text=Omar%20Rifaie&fontColor=e6edf3&fontSize=64&fontAlignY=36&desc=CS%20%40%20University%20of%20South%20Florida&descSize=20&descAlignY=58" alt="Omar Rifaie" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=0:3b2418,100:8a5a3b&text=Omar%20Rifaie&fontColor=f5e6ca&fontSize=64&fontAlignY=36&desc=CS%20%40%20University%20of%20South%20Florida&descSize=20&descAlignY=58" alt="Omar Rifaie" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Database+Administration+and+Data+Engineering+at+CAE+USA;Logistics+Lead+at+Google+Developer+Group+USF;Shipping+full-stack+apps+and+LLM-powered+tools;Building+ELT+pipelines+on+Snowflake+and+Databricks" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F5E6CA&center=true&vCenter=true&width=720&lines=Database+Administration+and+Data+Engineering+at+CAE+USA;Logistics+Lead+at+Google+Developer+Group+USF;Shipping+full-stack+apps+and+LLM-powered+tools;Building+ELT+pipelines+on+Snowflake+and+Databricks" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/omarrifaie/AeroFlow"><img src="https://img.shields.io/badge/check%20out-AeroFlow-FFD60A?style=for-the-badge&labelColor=0d1117" alt="Check out AeroFlow" /></a>
   <a href="https://www.linkedin.com/in/omar-rifaie-"><img src="https://img.shields.io/badge/connect%20with%20me%20on-LinkedIn-0A66C2?style=for-the-badge&labelColor=0d1117" alt="LinkedIn" /></a>
   <a href="mailto:Omar.Rifaie2@gmail.com"><img src="https://img.shields.io/badge/say%20hi%20by-email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
 </p>
